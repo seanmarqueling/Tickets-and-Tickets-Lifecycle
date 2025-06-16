@@ -5,6 +5,7 @@ In this lab I will show how to create tickets in osTicket as an end user and the
 
 ## Instructions - Create help tickets and resolve the tickets
 
+The first thing we are going to do is open up the End User home page for ticketing. [End User Ticketing](https://localhost/osTIcket/)
 
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture1.png?raw=true)
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture2.png?raw=true)
@@ -25,3 +26,7 @@ In this lab I will show how to create tickets in osTicket as an end user and the
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture17.png?raw=true)
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture18.png?raw=true)
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture19.png?raw=true)
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture20.png?raw=true)
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture21.png?raw=true)
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture22.png?raw=true)
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture23.png?raw=true)
