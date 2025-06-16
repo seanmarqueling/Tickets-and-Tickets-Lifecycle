@@ -104,17 +104,15 @@ Let's send out a message to the recipients as if we talked to the customers and 
 We will send out another message stating that the issue is resolved:
 - Customer states that the restart fixed the issue, closing out ticket.
 
-FYI when you do a Post Reply, your post can be seen by anyone attached to the ticket. You can Post Internal Note as well, and these notes will not be seen by the customer.
-
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture17.png?raw=true)
+
+When you do a Post Reply, your post can be seen by anyone attached to the ticket. You can Post Internal Note as well, and these notes will not be seen by the customer.
+
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture18.png?raw=true)
 
 Here is an example of a Post Reply (top post) and a Post Internal Note (bottom post)
 
 Set the status of that ticket to resolved.
-
-![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture18.png?raw=true)
-
-
 
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture19.png?raw=true)
 
