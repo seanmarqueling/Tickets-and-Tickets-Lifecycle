@@ -140,4 +140,8 @@ We will see that the issue has been resolved, there was an issue with their char
 - CFO's laptop was not charging due to broken charger. Brought new charger now successfully charging.
 
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture22.png?raw=true)
+
+Go ahead and set the ticket status to:
+- Status: Resolved; Charger was broken, because of this, battery was dead and unable to turn on.
+
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture23.png?raw=true)
