@@ -114,6 +114,10 @@ Set the status of that ticket to resolved.
 
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture18.png?raw=true)
 
+
+
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture19.png?raw=true)
+
 This is the final ticket we are going to create - return to the End User screen and create ticket.
 
 In this instance, we are going to say that the CFO is unable to use their laptop.
@@ -123,18 +127,17 @@ In this instance, we are going to say that the CFO is unable to use their laptop
 - Issue Summary: CFO states he is unable to use laptop
 - Summary: Laptop won't power on, even though they are pressing the power button.
 
-![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture19.png?raw=true)
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture20.png?raw=true)
 
 We are going to update the following ticket properties:
-Priority: Emergency
-Assigned to: John Doe
-SLA Plan: Sev-B; May reclassifty after we get more information.
+- Priority: Emergency
+- Assigned to: John Doe
+- SLA Plan: Sev-B; May reclassifty after we get more information.
 
-![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture20.png?raw=true)
+![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture21.png?raw=true)
 
 We will see that the issue has been resolved, there was an issue with their charger.
 - CFO's laptop was not charging due to broken charger. Brought new charger now successfully charging.
 
-![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture21.png?raw=true)
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture22.png?raw=true)
 ![image](https://github.com/seanmarqueling/Tickets-and-Tickets-Lifecycle/blob/main/Picture23.png?raw=true)
